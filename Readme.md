@@ -13,3 +13,4 @@ Automatic multiple choice question (MCQ) generation is a useful yet challenging 
 
 you can find a a Demo script by name of 'AQD_FullNotebookDemo.ipynb' in the repository it self, this notebook represent the end to end pipeline of our models and string together all 3 models.
 allowing us to easily generate MCQ on SQuAD data set or provide our own text and create MCQ directly from it.
+You will need to train the 3 models to gain access to their weights by using the training notebooks, if needed we can upload the weights to a cloud storage
